@@ -1,7 +1,7 @@
-#Stop-watch
+<h1 >Stop-watch</h1>
 
-###Tech used:
-###1.HTML
-###2.CSS
-###3.JS
+<h4>Tech used:</h4>
+<h4>1. HTML</h4>
+<h4>2. CSS</h4>
+<h4>3. JS</h4>
 <img src="image.png">
